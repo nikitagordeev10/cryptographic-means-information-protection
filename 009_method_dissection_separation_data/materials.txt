@@ -1,0 +1,4 @@
+ErbaAitbayev / Dissection-and-separation-encryption-method-in-Python // GitHub URL: https://github.com/ErbaAitbayev/Dissection-and-separation-encryption-method-in-Python (дата обращения: 30.09.2022).
+ЗАЩИТА ИНФОРМАЦИИ ВО ВНЕШНИХ ХРАНИЛИЩАХ ДАННЫХ МЕТОДОМ РАССЕЧЕНИЯ-РАЗНЕСЕНИЯ // ЭЛЕКТРОННЫЙ НАУЧНЫЙ ЖУРНАЛ "МОЛОДАЯ НАУКА СИБИРИ" URL: https://mnv.irgups.ru/sites/default/files/articles_pdf_files/protection_of_information_in_external_data_stores_0.pdf (дата обращения: 30.09.2022).
+Python: проверьте, является ли переменная списком // DevGang URL: https://dev-gang.ru/article/python-proverte-javljaetsja-li-peremennaja-spiskom-jgs9sxwhc2/ (дата обращения: 14.10.2022).
+Get unique values from a list in python [duplicate] // stack overflow URL: https://stackoverflow.com/questions/12897374/get-unique-values-from-a-list-in-python) (дата обращения: 14.10.2022).
